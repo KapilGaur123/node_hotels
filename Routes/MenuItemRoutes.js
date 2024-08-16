@@ -88,4 +88,5 @@ routes.delete('/:id', async (req,res) => {
     }
 })
 
+// export the routes in menu routes
 module.exports = routes;
